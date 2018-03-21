@@ -1,0 +1,67 @@
+@media screen and (max-width: 640px) {
+    #masterheader{
+        position:static;
+        
+        
+    }
+
+    #portfolio-container{
+        margin:0 auto;
+        width:80%;
+    }
+
+    #index-container{
+        margin:0 auto;
+        width:80%;
+    }
+
+    #footercontainer{
+        position:static;
+    }
+
+    nav {
+        width:100%;
+        display:inline-block;
+        background-color:white;
+        color:black;
+       
+    }
+
+    #myname{
+        width:100%;
+        height:40px;
+        text-align: center;
+    
+    }
+
+ 
+    #connect{
+        text-align:left;
+        margin-left:20px;
+        margin-right:20px;
+    }
+  
+    .social img{
+        margin-left:20px;
+    }
+
+    #messagebox{
+        margin-right:25%;
+    }
+    #subject{
+      
+        word-wrap: normal;
+    }
+
+    #index-container{
+        width:auto;
+        
+    }
+
+    #me{
+        
+    }
+
+
+}
+        

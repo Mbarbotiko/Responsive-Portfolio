@@ -1,0 +1,9 @@
+Short Link
+
+http://wallpapers-web.com/minneapolis-wallpapers/5019957.html
+Preview / HTML
+
+<a href="http://wallpapers-web.com/minneapolis-wallpapers/5019957.html"><img src="http://wallpapers-web.com/data/out/141/5019957-minneapolis-wallpapers.jpg" width="192" height="120" /></a>
+Forum / BBCode
+
+[URL=http://wallpapers-web.com/minneapolis-wallpapers/5019957.html][IMG]http://wallpapers-web.com/data/out/141/5019957-minneapolis-wallpapers.jpg[/IMG][/URL]
