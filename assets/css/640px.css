@@ -1,19 +1,35 @@
-@media screen and (max-width: 640px) {
+
+
+@media screen and (max-width: 640px){
+   
+   
+   
+   
     #masterheader{
         position:static;
-        
+       
         
     }
 
     #portfolio-container{
         margin:0 auto;
-        width:80%;
+        width:90%;
+        
+    }
+
+    .gallery{
+        margin-left:0;
+        margin-right:0;
     }
 
     #index-container{
         margin:0 auto;
-        width:80%;
+        width:90%;
+        
+        
     }
+
+
 
     #footercontainer{
         position:static;
@@ -24,14 +40,17 @@
         display:inline-block;
         background-color:white;
         color:black;
+        text-align: center;
        
     }
 
     #myname{
         width:100%;
-        height:40px;
         text-align: center;
-    
+        height:25%;
+        font-size:28px;
+        
+
     }
 
  
@@ -45,22 +64,37 @@
         margin-left:20px;
     }
 
+    .social{
+        width:90%;
+    }
+
     #messagebox{
-        margin-right:25%;
+        
     }
     #subject{
       
         word-wrap: normal;
     }
 
-    #index-container{
-        width:auto;
+
+
+
+    #me{
+      width: 85%;
+      float: none;
+       
+       
         
     }
 
-    #me{
-        
-    }
+    .indexpara p{
+        margin-right:0px;
+        margin-left:0px;
+        padding:15px;
+        text-indent:35px;
+        line-height:30px;
+     }
+         
 
 
 }

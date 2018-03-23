@@ -1,4 +1,96 @@
-@media screen and (max-width: 768px) {
+
+
+@media screen and (max-width: 768px){
+   
+   
+   
+   
+    #masterheader{
+        margin:0 auto;
+        overflow: hidden;
+        
+       
+        
+    }
+
+    #portfolio-container{
+        margin:0 auto;
+        width:90%;
+        
+    }
+
+    .gallery{
+        margin-left:0;
+        margin-right:0;
+    }
+
+    #index-container{
+       
+        width:90%;
+        
+        
+    }
+
+
+
+    #footercontainer{
+        
+    }
+
+    nav {
+       
+
+       
+    }
+
+    #myname{
+        margin-left:20px;
+    
+        
+
+    }
+
+ 
+    #connect{
+        text-align:left;
+        margin-left:20px;
+        margin-right:20px;
+    }
+  
+    .social img{
+        margin-left:20px;
+    }
+
+    .social{
+        width:90%;
+    }
+
+    
+    #subject{
+      
+        word-wrap: normal;
+        margin-right:10px;
+    }
+
+
+
+    #me{
+      width: 85%;
+      float: none;
+       
+       
+        
+    }
+
+    .indexpara p{
+        margin-right:0px;
+        margin-left:0px;
+        padding:15px;
+        text-indent:35px;
+        line-height:30px;
+     }
+         
 
 
 }
+        
